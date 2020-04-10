@@ -10,3 +10,5 @@ This might be because my approach is wrong, or because of the way that canvas wo
 Let me know if I missed something simple that would have made this much easier.
 
 Also let me know if you have any questions on the code as is.
+
+![Pythagorean Tree](https://github.com/Hannoob/FSharp-Fractals/blob/master/PythagoreanTree.png.bmp)
